@@ -1,0 +1,4 @@
+C:\Users\craig.dennis\Documents\Visual Studio 2015\Projects\Coroutines\Coroutines\bin\Release\StaticCoroutines.dll
+C:\Users\craig.dennis\Documents\Visual Studio 2015\Projects\Coroutines\Coroutines\bin\Release\StaticCoroutines.pdb
+C:\Users\craig.dennis\Documents\Visual Studio 2015\Projects\Coroutines\Coroutines\obj\Release\StaticCoroutines.dll
+C:\Users\craig.dennis\Documents\Visual Studio 2015\Projects\Coroutines\Coroutines\obj\Release\StaticCoroutines.pdb
